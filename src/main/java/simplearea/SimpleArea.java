@@ -11,7 +11,6 @@ import cn.nukkit.event.level.LevelLoadEvent;
 import cn.nukkit.level.Level;
 import cn.nukkit.event.level.LevelInitEvent;
 
-
 import database.AreaProvider;
 import database.world.WhiteWorldProvider;
 import database.user.UserProperties;
