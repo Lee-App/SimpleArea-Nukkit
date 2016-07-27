@@ -1,6 +1,6 @@
 name: SimpleArea
 authors: [ZINGDING, Organization]
 version: v0.0.1-Pre-Release
-main: zingding.SimpleArea
+main: simplearea.SimpleArea
 api: [1.0.0]
 website: "https://github.com/organization/SimpleArea.git"

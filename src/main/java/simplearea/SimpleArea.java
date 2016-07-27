@@ -103,7 +103,7 @@ public class SimpleArea extends PluginBase {
 	@Override
 	public void onEnable() {
 		this.getLogger().info(
-				TextFormat.GREEN + "SimpleArea " + TextFormat.RED + " v0.0.1-Pre-Release" + TextFormat.GREEN + " is enabled");
+				TextFormat.GREEN + "SimpleArea " + TextFormat.RED + " v0.0.1-Pre-Release" + TextFormat.GREEN + " is enabled!");
 		
 	}
 }
